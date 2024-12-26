@@ -1,0 +1,17 @@
+env/
+.env
+notebook/
+files/
+.cache/
+.vscode/
+.vscode-server/
+.vscode
+
+
+env/
+.env
+files/
+.cache/
+.streamlit/
+.DS_Store
+falcon.bin
